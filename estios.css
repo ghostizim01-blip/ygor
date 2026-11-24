@@ -1,0 +1,33 @@
+.container{
+    display: flex;
+    height: 340px;
+    width: 1000px;
+    background-color: goldenrod;
+}
+.aidento1{
+    height: 300px;
+    width: 300px;
+    background-color: red;
+    border-style: dashed;
+    border-color: black;
+    border-radius: 200px;
+    margin: 10PX;
+}
+.aidento2{
+    height: 300px;
+    width: 300px;
+    background-color: purple;
+    border-style: groove;
+    border-color: red;
+    border-radius: 200px;
+    margin: 10px;
+}
+.aidento3{
+    height: 300px;
+    width: 300px;
+    background-color: rgb(229, 255, 0);
+    border-style: dotted;
+    border-color: green;
+    border-radius: 200px;
+    margin: 10px;
+}
